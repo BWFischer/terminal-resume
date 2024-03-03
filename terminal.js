@@ -254,6 +254,4 @@ document.addEventListener("DOMContentLoaded", function () {
     const value = this.value;
     terminal.style.opacity = value / 100;
   });
-
-
 });
