@@ -34,6 +34,7 @@ This project is a terminal emulator designed to display a resume in a retro-them
 ## Usage
 
 ### Viewing the Resume
+https://bwfischer.github.io/terminal-resume/
 1. Open the HTML file in a web browser.
 2. Interact with the terminal using function key shortcuts to navigate through the resume content and perform actions.
 
@@ -50,7 +51,7 @@ This project is a terminal emulator designed to display a resume in a retro-them
 - HTML5: Structure and markup of the terminal interface and content.
 - CSS: Styling the terminal interface to achieve the retro theme and layout.
 - JavaScript: Implementing dynamic behavior, function key shortcuts, and content rendering.
-- Browser APIs: Utilizing browser functionalities like copying to clipboard, reloading the page, and accessing browser bookmarks.
+- Browser APIs: Utilizing browser functionalities like copying to the clipboard, reloading the page, and accessing browser bookmarks.
 
 ## Future Enhancements
 1. Implementing the search functionality (F3) to enable searching within the resume content.
