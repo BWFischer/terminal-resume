@@ -1,5 +1,7 @@
 # Terminal Emulator for Resume
 
+https://bwfischer.github.io/terminal-resume/
+
 This project is a terminal emulator designed to display a resume in a retro-themed environment. It provides functionality akin to a classic terminal interface, allowing users to navigate through the resume content using function keys and perform actions like copying contact information, toggling themes, saving the page as a bookmark, and more.
 
 ## Features
