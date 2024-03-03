@@ -1,5 +1,8 @@
 # Terminal Emulator for Resume
 
+As this emulator uses the Function Keys, it is best viewed on a computer screen.
+Refer to "Future Enhancements" below.
+
 https://bwfischer.github.io/terminal-resume/
 
 This project is a terminal emulator designed to display a resume in a retro-themed environment. It provides functionality akin to a classic terminal interface, allowing users to navigate through the resume content using function keys and perform actions like copying contact information, toggling themes, saving the page as a bookmark, and more.
@@ -54,7 +57,7 @@ https://bwfischer.github.io/terminal-resume/
 - Browser APIs: Utilizing browser functionalities like copying to the clipboard, reloading the page, and accessing browser bookmarks.
 
 ## Future Enhancements
-1. Implementing the search functionality (F3) to enable searching within the resume content.
+1. Implementing the functionality of the Function Keys (F1 - F10) on tablets and phones.
 2. Enhancing accessibility features to ensure compatibility with assistive technologies.
 3. Adding more interactive elements or sections to enrich the user experience.
 4. Optimizing code structure and performance for better maintainability and scalability.
