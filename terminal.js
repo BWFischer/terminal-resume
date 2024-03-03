@@ -254,4 +254,12 @@ document.addEventListener("DOMContentLoaded", function () {
     const value = this.value;
     terminal.style.opacity = value / 100;
   });
+      if (window.innerWidth > window.innerHeight) {
+      // Landscape mode      
+    } else {
+      // Portrait mode      
+    }
+  } 
+  window.addEventListener("resize", handleOrientationChange);
+  handleOrientationChange();  
 });
