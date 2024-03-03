@@ -250,5 +250,10 @@ document.addEventListener("DOMContentLoaded", function () {
   const dimmerSlider = document.getElementById("dimmer-slider");
   const terminal = document.getElementById("terminal");
 
+  dimmerSlider.addEventListener("input", function () {
+    const value = this.value;
+    terminal.style.opacity = value / 100;
+  });
+
 
 });
