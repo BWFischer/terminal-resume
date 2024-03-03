@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
     Title:      Full Stack Software Engineer, Senior Instructor
                 SQL | .Net/C# | React
 
-    Companies: Sabio School of Software Engineering
+    Companies:  Sabio School of Software Engineering
                 Computer Network, ZCC
                 Ocean Information Systems, Inc.
                 Business Computer Services, Inc.
