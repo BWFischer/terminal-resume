@@ -1,36 +1,35 @@
 document.addEventListener("DOMContentLoaded", function () {
-  const resumeText = `
-    *********** Resume Record Id# 65-65465C656N89W ***********
+ const resumeText = `
+\t*********** Resume Record Id# 65-65465C656N89W ***********
 
-    Name:       Barnett W. Fischer
+\tName:\t\tBarnett W. Fischer
 
-    Title:      Full Stack Software Engineer, Senior Instructor
-                SQL | .Net/C# | React
+\tTitle:\t\tFull Stack Software Engineer, Senior Instructor
+\t\t\tSQL | .Net/C# | React
 
-    Companies:  Sabio School of Software Engineering
-                Computer Network, ZCC
-                Ocean Information Systems, Inc.
-                Business Computer Services, Inc.
+\tCompanies:\tSabio School of Software Engineering
+\t\t\tComputer Network, ZCC
+\t\t\tOcean Information Systems, Inc.
+\t\t\tBusiness Computer Services, Inc.
 
-    Experience: Software Engineer
-                Hardware Engineer
-                Network Technician
+\tExperience:\tSoftware Engineer
+\t\t\tHardware Engineer
+\t\t\tNetwork Technician
 
-    OS's:       MS-DOS, DR-DOS, MS Windows 3.1, 95, 98, XP, 10, 11,
-                IBM O/S2, NetWare 3.0, 3.11, 3.12, MX-Linux, Ubuntu
+\tOS's:\t\tMS-DOS, DR-DOS, MS Windows 3.1, 95, 98, XP, 10, 11,
+\t\t\tIBM O/S2, NetWare 3.0, 3.11, 3.12, MX-Linux, Ubuntu
 
-    Software :  ASP.NET, Bootstrap, Cascading Style Sheets (CSS), C#, 
-                HTML5,JavaScript, jQuery, React.js, SQL, Transact-SQL
+\tSoftware:\tASP.NET, Bootstrap, Cascading Style Sheets (CSS), C#, 
+\t\t\tHTML5, JavaScript, jQuery, React.js, SQL, Transact-SQL
 
-    Contact:    barnett@sabio.la
-                www.linkedin.com/in/barnettfischer
-                wakatime.com/@Barnett
-                g.dev/barnett
-                github.com/BWFischer
+\tContact:\tbarnett@sabio.la
+\t\t\twww.linkedin.com/in/barnettfischer
+\t\t\twakatime.com/@Barnett
+\t\t\tg.dev/barnett
+\t\t\tgithub.com/BWFischer
 
-    *********** auth trans sec key: 5KDO3WE3DK34-4 ***********
-  `;
-
+\t*********** auth trans sec key: 5KDO3WE3DK34-4 ***********
+`;
   function typeWriter(text, element, delay = 20) {
     let i = 0;
 
