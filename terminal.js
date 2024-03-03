@@ -250,16 +250,5 @@ document.addEventListener("DOMContentLoaded", function () {
   const dimmerSlider = document.getElementById("dimmer-slider");
   const terminal = document.getElementById("terminal");
 
-  dimmerSlider.addEventListener("input", function () {
-    const value = this.value;
-    terminal.style.opacity = value / 100;
-  });
-      if (window.innerWidth > window.innerHeight) {
-      // Landscape mode      
-    } else {
-      // Portrait mode      
-    }
-  } 
-  window.addEventListener("resize", handleOrientationChange);
-  handleOrientationChange();  
+
 });
