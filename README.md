@@ -36,6 +36,8 @@ This project is a terminal emulator designed to display a resume in a retro-them
 
 ## 5. Updated Features 
 -  Implemented touchscreen functionality for the Function Keys (F1 - F10) on tablets and phones.
+-  Add my CV to the F4 key.
+-  Updated .js to ensure that pop-up screens carry the current theme color.
 
 ### 6. Viewing the Resume
 https://bwfischer.github.io/terminal-resume/
