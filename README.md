@@ -34,41 +34,41 @@ This project is a terminal emulator designed to display a resume in a retro-them
 - The terminal dynamically updates the current date and time in the footer.
 - It supports opacity adjustment using a dimmer slider for improved readability.
 
-## Updated Features 
--  Implementing touchscreen functionality for the Function Keys (F1 - F10) on tablets and phones.
+## 5. Updated Features 
+-  Implemented touchscreen functionality for the Function Keys (F1 - F10) on tablets and phones.
 
-### Viewing the Resume
+### 6. Viewing the Resume
 https://bwfischer.github.io/terminal-resume/
 1. Open the HTML file in a web browser.
 2. Interact with the terminal using function key shortcuts to navigate through the resume content and perform actions.
 
-### Functionality
+### 7. Functionality
 - Use function keys F1 to F10 to trigger specific actions as described in the features section.
 - The resume content will be displayed in a typewriter animation upon loading the page.
 - The terminal provides visual feedback for certain actions, such as copying information or toggling themes.
 
-### Customization
+### 8. Customization
 - Developers can customize the appearance and behavior of the terminal by modifying the HTML, CSS, and JavaScript files.
 - Themes, animations, and functionality can be tailored to suit individual preferences or integrate additional features.
 
-## Technologies Used
+## 9. Technologies Used
 - HTML5: Structure and markup of the terminal interface and content.
 - CSS: Styling the terminal interface to achieve the retro theme and layout.
 - JavaScript: Implementing dynamic behavior, function key shortcuts, and content rendering.
 - Browser APIs: Utilizing browser functionalities like copying to the clipboard, reloading the page, and accessing browser bookmarks.
 
-## Future Enhancements
+## 10. Future Enhancements
 1. Enhancing accessibility features to ensure compatibility with assistive technologies.
 2. Adding more interactive elements or sections to enrich the user experience.
 3. Optimizing code structure and performance for better maintainability and scalability.
 
-## Contributing
+## 11. Contributing
 Contributions to this project are welcome! Whether it's fixing bugs, adding features, or suggesting improvements, feel free to submit pull requests or raise issues on the GitHub repository.
 
-## License
+## 12. License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
+## 13. Acknowledgments
 - Inspired by retro terminal interfaces and classic command-line interactions.
 - Built with love and passion for blending nostalgia with modern web development practices.
 
