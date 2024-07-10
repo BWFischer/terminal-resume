@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Terminal Emulator for Resume</title>
+    <link rel="stylesheet" href="./terminal.css" />
+  </head>
+  <body class="green-theme">
+    <div id="terminal">
+      <div id="header">
+        <span id="helpButton" class="hoverColor" onclick="showHelpMessage()">F1:Help </span>
+        <span id="saveButton" class="hoverColor" onclick="saveAsBookmark()">F2:Save </span>
+        <span id="findButton" class="hoverColor" onclick="reserved()">F3:Find </span>
+        <span id="cvButton" class="hoverColor" onclick="showAboutMessage()">F4:CV </span>
+        <span id="linksButton" class="hoverColor" onclick="showContactInfo()">F5:Links </span>
+        <span id="copyButton" class="hoverColor" onclick="copyToClipboard()">F6:Copy </span>
+        <span id="pasteButton" class="hoverColor" onclick="reserved()">F7:Paste </span>
+        <span id="colorButton" class="hoverColor" onclick="toggleTheme()">F8:Color </span>
+        <span id="redoButton" class="hoverColor" onclick="reloadPage()">F9:Redo </span>
+        <span id="quitButton" class="hoverColor" onclick="window.location.href='https://www.linkedin.com/in/barnettfischer'">F10:Quit </span>
+      </div>
+      <div id="main-content">
+        <section id="resume">
+          <pre id="resume-content"></pre>
+        </section>
+        <footer>
+          <div class="footer-content">
+            <span>======================================================================================================</span>
+            <p id="footer-text">Terminal Emulator v1.2, &copy; 2024 - Barnett W. Fischer, <span id="currentDate"></span>, <span id="currentTime"></span></p>
+          </div>
+        </footer>
+      </div>
+      <div class="dimmer-container">
+        <input type="range" min="0" max="100" value="100" class="dimmer-slider" id="dimmer-slider" />
+      </div>
+    </div>
+    <script src="./terminal.js"></script>
+  </body>
+</html>
