@@ -34,7 +34,8 @@ This project is a terminal emulator designed to display a resume in a retro-them
 - The terminal dynamically updates the current date and time in the footer.
 - It supports opacity adjustment using a dimmer slider for improved readability.
 
-## Usage
+## Updated Features 
+-  Implementing touchscreen functionality for the Function Keys (F1 - F10) on tablets and phones.
 
 ### Viewing the Resume
 https://bwfischer.github.io/terminal-resume/
@@ -57,10 +58,9 @@ https://bwfischer.github.io/terminal-resume/
 - Browser APIs: Utilizing browser functionalities like copying to the clipboard, reloading the page, and accessing browser bookmarks.
 
 ## Future Enhancements
-1. Implementing the functionality of the Function Keys (F1 - F10) on tablets and phones.
-2. Enhancing accessibility features to ensure compatibility with assistive technologies.
-3. Adding more interactive elements or sections to enrich the user experience.
-4. Optimizing code structure and performance for better maintainability and scalability.
+1. Enhancing accessibility features to ensure compatibility with assistive technologies.
+2. Adding more interactive elements or sections to enrich the user experience.
+3. Optimizing code structure and performance for better maintainability and scalability.
 
 ## Contributing
 Contributions to this project are welcome! Whether it's fixing bugs, adding features, or suggesting improvements, feel free to submit pull requests or raise issues on the GitHub repository.
