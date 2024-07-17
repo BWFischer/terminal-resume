@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function () {
     Software:\t\tASP.NET, Bootstrap, Cascading Style Sheets (CSS), C#,
     \t\t\tHTML5, JavaScript, jQuery, React.js, SQL, Transact-SQL
 
-    Contact:\t\tbarnettfischer03@gmail.com
+    Contact:\t\thire.barnett@gmail.com
     \t\t\twww.linkedin.com/in/barnettfischer
     \t\t\twakatime.com/@Barnett
     \t\t\tg.dev/barnett
