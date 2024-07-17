@@ -7,6 +7,12 @@ document.addEventListener("DOMContentLoaded", function () {
     Title:\t\tFull Stack Software Engineer, Senior Instructor
     \t\t\tSQL | .Net/C# | React | CompTIA A+ | CompTIA Security+
 
+    Contact:\t\thire.barnett@gmail.com
+    \t\t\twww.linkedin.com/in/barnettfischer
+    \t\t\twakatime.com/@Barnett
+    \t\t\tg.dev/barnett
+    \t\t\tgithub.com/BWFischer
+
     Companies:\t\tSabio School of Software Engineering
     \t\t\tComputer Network, ZCC
     \t\t\tOcean Information Systems, Inc.
@@ -21,12 +27,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
     Software:\t\tASP.NET, Bootstrap, Cascading Style Sheets (CSS), C#,
     \t\t\tHTML5, JavaScript, jQuery, React.js, SQL, Transact-SQL
-
-    Contact:\t\thire.barnett@gmail.com
-    \t\t\twww.linkedin.com/in/barnettfischer
-    \t\t\twakatime.com/@Barnett
-    \t\t\tg.dev/barnett
-    \t\t\tgithub.com/BWFischer
 
     *********** auth trans sec key: 5KDO3WE3DK34-4 ***********
   `;
