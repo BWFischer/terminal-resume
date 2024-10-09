@@ -13,7 +13,8 @@ document.addEventListener("DOMContentLoaded", function () {
     \t\t\tg.dev/barnett
     \t\t\tgithub.com/BWFischer
 
-    Companies:\t\tSabio School of Software Engineering
+    Companies:\t\tPathway to Kinship
+    \t\t\tSabio School of Software Engineering
     \t\t\tComputer Network, ZCC
     \t\t\tOcean Information Systems, Inc.
     \t\t\tBusiness Computer Services, Inc.
