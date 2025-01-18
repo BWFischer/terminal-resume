@@ -215,71 +215,24 @@ document.addEventListener("DOMContentLoaded", function () {
     aboutMessage.innerHTML = `
       <pre id="cv-content" style="text-align: left;">
 
-   I'm Barnett Fischer, a seasoned Full-Stack Developer
-   with deep expertise in React, .NET, and SQL
+   I'm Barnett Fischer, a seasoned Full-Stack Software
+   Engineer with deep expertise in React, .NET, and SQL
    technologies.
+     
+   I'm also passionate about Pali and Sanskrit literature. 
+   I am literate in Pali and have translated several books
+   into English. My studies have encompassed significant 
+   texts such as the Rig Veda, Upanishads, Bhagavad Gita, 
+   and Classical Sanskrit poetry.
    
-   In my current role as Senior Technical Lead
-   in Software Engineering at Sabio, based in Culver City,
-   CA, I play a pivotal role in training and developers.
-   This involves guiding them through the intricacies of
-   Full Stack web application development.
-
-   We use Agile methodologies such as Daily Standups,
-   Code Talks, and Peer Reviews.
-
-   I emphasize best practices in frontend development
-   with React.js, leveraging JavaScript, HTML, and CSS,
-   while also diving into backend solutions with .NET
-   Core using C# and SQL Server managed through SSMS
-   with T-SQL.
-
-   Previously, at Interrogas, also in Culver City, CA,
-   I was responsible for developing and managing Pollster
-   Tables and Stored Procedures using SQL Server
-   Management Studio (SSMS).
-   
-   I engineered RESTful APIs using .NET and C#,
-   rigorously testing them with Postman to ensure
-   robust functionality.
-   
-   An integral part of this project was creating an interactive
-   React.js table for dynamic data management, featuring
-   a responsive UI with advanced features like pagination,
-   search capabilities, and export to CSV.
-   
-   I alos implemented frontend validations using Yup schemas
-   and enhanced user interaction with libraries like Bootstrap,
-   Toastr notifications, and Sweet Alerts.
-
-   My career spans various roles that have contributed to
-   my diverse skill set.
-   
-   As a Network Specialist at Zen Computer Co. in Rancho Cucamonga
-   and earlier as a Computer Engineer at Ocean Information Systems,
-   in Covina, California, I gained hands-on experience in
-   hardware development. This included designing motherboards,
-   integrating EDRAM, and conducting rigorous hardware stress testing.
-   I also participated in software beta testing for industry leaders
-   like Microsoft andNovell.
-
-   In addition to my technical expertise, I'm also passionate
-   about Pali and Sanskrit literature. I am literate in Pali
-   and have translated several books into English. My studies
-   have encompassed significant texts such as the Rig Veda,
-   Upanishads, Bhagavad Gita, and Classical Sanskrit poetry,
-   reflecting my deep interest in linguistic and spiritual
-   studies. Currently, I have about four years of literary
+   These reflect my deep interest in linguistic and spiritual
+   studies. Currently, I have about three years of literary
    Chinese as well.
 
-   I hold CompTIA A+ and Security+ certifications,
-   demonstrating my commitment to maintaining high standards
-   of technical proficiency and cybersecurity awareness.
-
-   Additionally, my coursework towards an AS Degree in
-   Business Management at Palo Verde College has equipped
-   me with valuable insights into project management and
-   organizational dynamics.</pre>`;
+   I also hold CompTIA A+ and Security+ certifications,
+   demonstrating my commitment to maintaining high technical
+   proficiency and cybersecurity awareness standards.
+</pre>`;
     aboutMessage.classList.add("message-box-cv");
     applyCurrentTheme(aboutMessage);
     document.body.appendChild(aboutMessage);
